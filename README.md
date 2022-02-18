@@ -25,4 +25,4 @@ there will be more updates to this
  ## working as of 17/02/2022
 
 
-yes this is a remake of my apex injector just allowing it to work for fortnite and Unreal Engine games
+private version up for sale if wanting to purchase source code to injector + driver
