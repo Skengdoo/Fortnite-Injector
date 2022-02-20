@@ -22,9 +22,7 @@ Working Undetected injector for fortnite internals
 there will be more updates to this 
 
 
- ## working as of 17/02/2022
-
 
 private version up for sale if wanting to purchase source code to injector + driver
 
-## discord nulled#9524
+## discord skengdoo#9524
