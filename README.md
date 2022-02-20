@@ -27,4 +27,4 @@ there will be more updates to this
 
 private version up for sale if wanting to purchase source code to injector + driver
 
-## join discord https://discord.gg/ZxKe3nH7K3
+## discord nulled#9524
