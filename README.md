@@ -1,15 +1,15 @@
 # Fortnite-Injector
-Working Undetected injector for fortnite internals
+Undetected injector for fortnite internals and other UnrealEngine games
 
 
-## [ Information ]
+## [ Injector Information ]
 
 - Rwx injection method using SetWindowsHook inside of our rwx to call dll
 - Works from windows versions from 1809 up to 20h2 ( higher windows needed to be tested on )
 - This injector can work for multiple games such as Rust , EFT , and many more EAC / BattlEye protected games 
 
 
-## [ How to inject ? ]
+## [ How to inject into fortnite ? ]
 - Put the injector executable into any folder along with your internal cheat dll
 - name your cheat dll to Fortnite.dll and have it in the same folder as apex 
 - disable any anti virus software 
@@ -19,10 +19,10 @@ Working Undetected injector for fortnite internals
 
 
 
-there will be more updates to this 
 
 
 
 private version up for sale if wanting to purchase source code to injector + driver
 
 ## discord skengdoo#9524
+## send me development ideas via my discord !
