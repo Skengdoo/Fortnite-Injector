@@ -13,7 +13,7 @@ Undetected injector for fortnite internals and other UnrealEngine games
 
 ## [ How to inject into fortnite ? ]
 - Put the injector executable into any folder along with your internal cheat dll
-- name your cheat dll to Fortnite.dll and have it in the same folder as apex 
+- name your cheat dll to Fortnite.dll and have it in the same folder as the injector 
 - disable any anti virus software 
 - disable vangaurd or faceit anticheat 
 - then load up into apex game menu
